@@ -4,10 +4,6 @@ object-assign
 @license MIT
 */
 
-/*!
- * Programatically add the following
- */
-
 /**
  * A better abstraction over CSS.
  *
